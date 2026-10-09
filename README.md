@@ -27,8 +27,13 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sriyash3105/leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2485-find-the-pivot-integer](https://github.com/Sriyash3105/leet_code/tree/master/2485-find-the-pivot-integer) |
 ## Sorting
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sriyash3105/leet_code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/Sriyash3105/leet_code/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
