@@ -26,6 +26,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Sriyash3105/leet_code/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sriyash3105/leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2485-find-the-pivot-integer](https://github.com/Sriyash3105/leet_code/tree/master/2485-find-the-pivot-integer) |
 ## Sorting
