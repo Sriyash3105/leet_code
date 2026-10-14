@@ -41,6 +41,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sriyash3105/leet_code/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Sriyash3105/leet_code/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Sriyash3105/leet_code/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sriyash3105/leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/Sriyash3105/leet_code/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/Sriyash3105/leet_code/tree/master/0728-self-dividing-numbers) |
@@ -85,4 +86,5 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sriyash3105/leet_code/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Sriyash3105/leet_code/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
