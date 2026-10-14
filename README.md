@@ -12,6 +12,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Sriyash3105/leet_code/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sriyash3105/leet_code/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sriyash3105/leet_code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sriyash3105/leet_code/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,10 +27,12 @@
 | [0739-daily-temperatures](https://github.com/Sriyash3105/leet_code/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sriyash3105/leet_code/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sriyash3105/leet_code/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sriyash3105/leet_code/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sriyash3105/leet_code/tree/master/1441-build-an-array-with-stack-operations) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sriyash3105/leet_code/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Math
 |  |
 | ------- |
@@ -61,4 +64,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sriyash3105/leet_code/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sriyash3105/leet_code/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
