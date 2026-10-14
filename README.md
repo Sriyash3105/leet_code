@@ -39,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sriyash3105/leet_code/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Sriyash3105/leet_code/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sriyash3105/leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/Sriyash3105/leet_code/tree/master/0263-ugly-number) |
@@ -76,4 +77,12 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Sriyash3105/leet_code/tree/master/0118-pascals-triangle) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sriyash3105/leet_code/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sriyash3105/leet_code/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
