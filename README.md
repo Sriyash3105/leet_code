@@ -87,4 +87,8 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sriyash3105/leet_code/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Sriyash3105/leet_code/tree/master/0050-powx-n) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Sriyash3105/leet_code/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
