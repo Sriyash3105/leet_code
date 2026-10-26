@@ -117,19 +117,27 @@
 | [0459-repeated-substring-pattern](https://github.com/Sriyash3105/leet_code/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Sriyash3105/leet_code/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Sriyash3105/leet_code/tree/master/0520-detect-capital) |
+| [0686-repeated-string-match](https://github.com/Sriyash3105/leet_code/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Sriyash3105/leet_code/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/Sriyash3105/leet_code/tree/master/0831-masking-personal-information) |
 ## String Matching
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Sriyash3105/leet_code/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Sriyash3105/leet_code/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Sriyash3105/leet_code/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Sriyash3105/leet_code/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Sriyash3105/leet_code/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Sriyash3105/leet_code/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Sriyash3105/leet_code/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Sriyash3105/leet_code/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
