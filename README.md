@@ -114,5 +114,6 @@
 ## String
 |  |
 | ------- |
+| [0482-license-key-formatting](https://github.com/Sriyash3105/leet_code/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Sriyash3105/leet_code/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
