@@ -116,4 +116,5 @@
 | ------- |
 | [0482-license-key-formatting](https://github.com/Sriyash3105/leet_code/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Sriyash3105/leet_code/tree/master/0520-detect-capital) |
+| [0831-masking-personal-information](https://github.com/Sriyash3105/leet_code/tree/master/0831-masking-personal-information) |
 <!---LeetCode Topics End-->
