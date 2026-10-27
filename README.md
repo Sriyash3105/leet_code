@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sriyash3105/leet_code/tree/master/0002-add-two-numbers) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Sriyash3105/leet_code/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
