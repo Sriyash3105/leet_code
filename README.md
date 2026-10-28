@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sriyash3105/leet_code/tree/master/0001-two-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sriyash3105/leet_code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Sriyash3105/leet_code/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sriyash3105/leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -21,6 +22,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sriyash3105/leet_code/tree/master/0001-two-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sriyash3105/leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sriyash3105/leet_code/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Stack
