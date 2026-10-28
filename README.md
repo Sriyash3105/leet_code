@@ -88,12 +88,14 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sriyash3105/leet_code/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sriyash3105/leet_code/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/Sriyash3105/leet_code/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sriyash3105/leet_code/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sriyash3105/leet_code/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Sriyash3105/leet_code/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Sriyash3105/leet_code/tree/master/0206-reverse-linked-list) |
 ## Database
 |  |
 | ------- |
