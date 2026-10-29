@@ -29,6 +29,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sriyash3105/leet_code/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sriyash3105/leet_code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sriyash3105/leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Sriyash3105/leet_code/tree/master/0232-implement-queue-using-stacks) |
@@ -122,6 +123,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sriyash3105/leet_code/tree/master/0020-valid-parentheses) |
 | [0459-repeated-substring-pattern](https://github.com/Sriyash3105/leet_code/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Sriyash3105/leet_code/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Sriyash3105/leet_code/tree/master/0520-detect-capital) |
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/Sriyash3105/leet_code/tree/master/0686-repeated-string-match) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sriyash3105/leet_code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
