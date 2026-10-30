@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sriyash3105/leet_code/tree/master/0001-two-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sriyash3105/leet_code/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Sriyash3105/leet_code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Sriyash3105/leet_code/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sriyash3105/leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sriyash3105/leet_code/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -59,6 +60,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Sriyash3105/leet_code/tree/master/0088-merge-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sriyash3105/leet_code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Prefix Sum
 |  |
@@ -161,4 +163,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sriyash3105/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Sriyash3105/leet_code/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
