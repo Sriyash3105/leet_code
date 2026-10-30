@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sriyash3105/leet_code/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/Sriyash3105/leet_code/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sriyash3105/leet_code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sriyash3105/leet_code/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/Sriyash3105/leet_code/tree/master/0206-reverse-linked-list) |
@@ -166,5 +167,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Sriyash3105/leet_code/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Sriyash3105/leet_code/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
