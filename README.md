@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sriyash3105/leet_code/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Sriyash3105/leet_code/tree/master/0011-container-with-most-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sriyash3105/leet_code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Sriyash3105/leet_code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Sriyash3105/leet_code/tree/master/0118-pascals-triangle) |
@@ -167,6 +168,11 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sriyash3105/leet_code/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/Sriyash3105/leet_code/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Sriyash3105/leet_code/tree/master/0088-merge-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Sriyash3105/leet_code/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
